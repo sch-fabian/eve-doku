@@ -5,7 +5,7 @@ Alle bemerkenswerten Änderungen an diesem Projekt werden in dieser Datei dokume
 
 # Released
 
-## 1.0.0
+## 1.0.0 [08.11.2020]
 
 ### Added
 - `.help` - Zeigt eine Übersicht alle Kategorien der verschiedenen Befehle. `.help <Kategorie>` zeigt dann eine Auflistung alle Befehle zu einer Kategorie.
